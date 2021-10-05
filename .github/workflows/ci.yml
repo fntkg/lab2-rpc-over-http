@@ -1,9 +1,9 @@
 name: CI
 on:
   push:
-    branches: [ main ]
+    branches: [ work ] # Change this from [ main ] to [ work ]
   pull_request:
-    branches: [ main ]
+    branches: [ work ]  # Change this from [ main ] to [ work ]
   workflow_dispatch:
 jobs:
   build:

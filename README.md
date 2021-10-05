@@ -1,5 +1,7 @@
 # Web Engineering 2021-2022 / Lab2 RPC over HTTP
 
+Temp comment to test CI
+
 Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab2-rpc-over-http/wiki) in order to get the instructions for this assignment.
 
 ## Primary goal
